@@ -1,2 +1,1 @@
-I Translate English to Turkish
-Hexasan#0152
+Hexhan#0152
