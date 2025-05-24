@@ -1,3 +1,4 @@
+🇹🇷
 Discord: @Hexasan
 
-I usually translate Minecraft Mods
+I translate Minecraft Mods (en -> tr)
