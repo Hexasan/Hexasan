@@ -1,7 +1,5 @@
 Adds the Slime Sling and Slime Boots from [Tinker's Construct](https://modrinth.com/mod/tinkers-construct)
 
-WARNING: Since this is a Datapack, the items will not show up on your JEI/REI/EMI, you can see them in your Recipe Book
-
 ## Slime Boots
 Lets you bounce on any surface and prevents fall damage
 ![Slime Boots Crafting Recipe](https://cdn.modrinth.com/data/cached_images/38509f7799bb60d9f166d408d08d20f322d90989.png)
